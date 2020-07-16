@@ -35,7 +35,7 @@ Hotel staff need to manage a huge number of guests and the management board of t
  </p>
  
  ## User Manual 
- [![User Manual](https://img.shields.io/static/v1?label=<LABEL>&message=<User Manual>&color=<RED>)](../master/User Manual)
+* Read the user Manual in the repository before using the system.This is a screenshot of the first page of the user manual.
  
  <p align="middle">
   <img src="../master/interfaces/usermanual.PNG"/>
@@ -53,9 +53,7 @@ Go to the HotelManagementSystem\dist and click on the setup icon and install the
   <img src="../master/interfaces/Installation Window.PNG"/>
  </p>
  
- <p align="middle">
-  <img src="../master/interfaces/Icon.PNG"/>
- </p>
+
  
  User credentails:
 USER1:
