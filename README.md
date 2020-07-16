@@ -34,13 +34,84 @@ Hotel staff need to manage a huge number of guests and the management board of t
   <img src="../master/interfaces/systemoverview.PNG"/>
  </p>
  
- ## User Manual (../master/User Manual)
+ ## User Manual 
+ [![User Manual](https://img.shields.io/static/v1?label=<LABEL>&message=<User Manual>&color=<RED>)](../master/User Manual)
  
  <p align="middle">
   <img src="../master/interfaces/usermanual.PNG"/>
  </p>
  
+  ## Installation
+
+Go to the HotelManagementSystem\dist and click on the setup icon and install the program according to the instructions listed in the installation process.
+
+<p align="middle">
+  <img src="../master/interfaces/Installation Folder.PNG"/>
+ </p>
  
+  <p align="middle">
+  <img src="../master/interfaces/Installation Window.PNG"/>
+ </p>
+ 
+ <p align="middle">
+  <img src="../master/interfaces/Icon.PNG"/>
+ </p>
+ 
+ User credentails:
+USER1:
+USername:admin
+password:admin
+
+USER2:
+USername:hasindu
+Pasword:hasindu
+
+USER3:
+USername:kaveetha
+Pasword:kaveetha
+
+
+USER4:
+USername:manthi
+Pasword:manthi
+
+USER5:
+USername:kaushalya
+Pasword:kaushalya
+
+USER6:
+USername:visitha
+Pasword:visitha
+
+USER7:
+USername:malki
+Pasword:malki
+
+USER8:
+USername:vageesha
+Pasword:vageesha
+
+USER9:
+USername:visitha1
+Pasword:visitha1
+
+USER10:
+USername:visitha2
+Pasword:visitha2
+
+USER10:
+USername:visitha3
+Pasword:visitha3
+
+USER11:
+USername:visitha4
+Pasword:visitha4
+
+USER12:
+USername:visitha5
+Pasword:visitha5
+
+  
  
  ## Some user interfaces of the system
  
@@ -91,21 +162,7 @@ Hotel staff need to manage a huge number of guests and the management board of t
   <img src="../master/interfaces/UI8.PNG"/>
  </p>
  
- 
-  ## Some installation interfaces
-  
-  <p align="middle">
-  <img src="../master/interfaces/Installation Folder.PNG"/>
- </p>
- 
-  <p align="middle">
-  <img src="../master/interfaces/Installation Window.PNG"/>
- </p>
- 
- <p align="middle">
-  <img src="../master/interfaces/Icon.PNG"/>
- </p>
- 
+
   
   ## Final Installation CD and CD Cover
   <p align="middle">
