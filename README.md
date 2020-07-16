@@ -162,7 +162,7 @@ Pasword:visitha5
  
 
   
-  ## Final Installation CD and CD Cover
+  ## Installation CD and CD Cover
   <p align="middle">
   <img src="../master/interfaces/cd.jpg"/>
  </p>
