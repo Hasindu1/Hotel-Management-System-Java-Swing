@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jul 16 23:00:40 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0173-58ad-9fc4-0000062a3f20 
+on database directory C:\Users\Hasindu\Pictures\__MACOSX\Word\This is it\HotelManagementSystem\HotelManagement with class loader sun.misc.Launcher$AppClassLoader@3fee733d 
+Loaded from file:/C:/Program%20Files/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Hasindu\Pictures\__MACOSX\Word\This is it\HotelManagementSystem
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

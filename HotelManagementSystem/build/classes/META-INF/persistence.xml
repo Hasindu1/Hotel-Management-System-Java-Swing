@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="HotelManagementSystemPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>hotelmanagementsystem.Resitem</class>
+    <class>hotelmanagementsystem.Restaurantuser</class>
+    <class>hotelmanagementsystem.Restables</class>
+    <class>hotelmanagementsystem.Orders</class>
+    <class>hotelmanagementsystem.Bookedtable</class>
+    <class>restaurantManagementFunction.Resitem</class>
+    <class>restaurantManagementFunction.Bookedtable</class>
+    <class>restaurantManagementFunction.Restables</class>
+    <class>restaurantManagementFunction.Restaurantuser</class>
+    <class>restaurantManagementFunction.Orders</class>
+    <class>Accomdation.Room</class>
+    <class>Accomdation.Roomuser</class>
+      <class>Accountant.Supplieritem</class>
+    <!--<class>Inventory.Supplieritems</class> -->
+    <class>supplierManagement.Orderdetails</class>
+    <class>supplierManagement.Supplieritems</class>
+    <class>supplierManagement.Supplierdetails</class>
+   
+    <class>accomodationManagementFunction.Room</class>
+    <class>accomodationManagementFunction.Roomuser</class>
+    <class>accomodationManagementFunction.Roombooking</class>
+    <class>BarManagementFunction.Barorders</class>
+    <class>BarManagementFunction.Barincome</class>
+    <class>BarManagementFunction.Barwastage</class>
+    <class>BarManagementFunction.Barstockcontrol</class>
+    <class>BarManagementFunction.Barorderbill</class>
+     <class>employeeManagementFunction.Employee</class>
+    <class>employeeManagementFunction.Job</class>
+    <class>employeeManagementFunction.Attendence</class>
+    <class>employeeManagementFunction.Salary</class>
+     <class>eventManagementFunction.Hall</class>
+    <class>eventManagementFunction.Hallbooking</class>
+    <class>eventManagementFunction.Halluser</class>
+    <properties>
+        <property name="javax.persistence.jdbc.driver" 
+            value="org.apache.derby.jdbc.EmbeddedDriver" />
+        <property name="javax.persistence.jdbc.url"
+            value="jdbc:derby:HotelManagement;create=true" />
+        <property name="javax.persistence.jdbc.user" value="root" />
+        <property name="javax.persistence.jdbc.password" value="root" />
+    </properties>
+  </persistence-unit>
+  <persistence-unit name="HotelManagementSystemPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>restaurantManagementFunction.Resitem</class>
+    <properties>
+      <property name="javax.persistence.jdbc.driver" 
+            value="org.apache.derby.jdbc.EmbeddedDriver" />
+        <property name="javax.persistence.jdbc.url"
+            value="jdbc:derby:HotelManagement;create=true" />
+        <property name="javax.persistence.jdbc.user" value="root" />
+        <property name="javax.persistence.jdbc.password" value="root" />
+    </properties>
+  </persistence-unit>
+</persistence>
