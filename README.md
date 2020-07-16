@@ -6,9 +6,9 @@ Hotel “Kabalana” is the only hotel in Sri Lanka which inspired by most creat
 
 Hotel staff need to manage a huge number of guests and the management board of the hotel doesn’t have an automated system that calculates the employee salaries of the hotel too. So, managing guest details, bills and their other details and managing employee salaries in an efficient manner are the main problems they faced right now. 
 
-• They must calculate employee salaries and store other details manually.
-• They must store supplier details manually. 
-• In most cases the existing system is not user-friendly and not giving their expected output, because of that they need to insert details of the restaurant and other sections manually and calculate the outputs manually. 
+* They must calculate employee salaries and store other details manually.
+* They must store supplier details manually. 
+* In most cases the existing system is not user-friendly and not giving their expected output, because of that they need to insert details of the restaurant and other sections manually and calculate the outputs manually. 
 
 
 
