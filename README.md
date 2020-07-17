@@ -2,6 +2,25 @@
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ## Introduction
 Hotel “Kabalana” is the only hotel in Sri Lanka which inspired by most creative cultures of an ancient palace in Alexandria, Egypt. “Kabalana” hotel provides a magnificent view of the Indian Ocean and stunning sunset. “Kabalana” hotel’s location is known to many as the best surfing destination in down south. This hotel has around 45 room capacity with many categories and for desirable price ranges. The hotel has all the bar facilities, restaurant facilities and other luxurious facilities like outdoor swimming pools, halls, etc.    Currently, the hotel has an existing hotel management system to perform its usual functions but they don’t use it much because of its complexity and sometimes it doesn’t produce the outputs as they expected. So, they were asked from us to produce a system to do their work more accurately according to their specific requirements. 
+## Technology stack
+
+### Languages 
+![Java](https://img.shields.io/badge/Language-Java-red) 
+
+
+### Frameworks and Libs
+![JavaMailAPI](https://img.shields.io/badge/Library-JavaMailAPI-blue) 
+
+
+### Technologies and APIs
+![JavaSwing](https://img.shields.io/badge/Technology-JavaSwing-blue) 
+![JavaMultiThreading](https://img.shields.io/badge/Technology-JavaMultiThreading-blue) 
+
+
+### Tools ,Databases and servers
+![NetBeans](https://img.shields.io/badge/Technology-NetBenas-blue) 
+![ApacheDerby](https://img.shields.io/badge/Database-ApacheDerby-blue) 
+![GlassFishServer](https://img.shields.io/badge/Database-GlassFishServer-blue) 
 
 
 ### Problems
