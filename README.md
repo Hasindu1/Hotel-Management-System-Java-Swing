@@ -6,7 +6,7 @@ Hotel “Kabalana” is the only hotel in Sri Lanka which inspired by most creat
 
 ### Languages 
 ![Java](https://img.shields.io/badge/Language-Java-red) 
-
+![SQL](https://img.shields.io/badge/Language-SQL-red) 
 
 ### Frameworks and Libs
 ![JavaMailAPI](https://img.shields.io/badge/Library-JavaMailAPI-blue) 
