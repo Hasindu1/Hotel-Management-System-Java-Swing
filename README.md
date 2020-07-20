@@ -1,5 +1,6 @@
 #  :hotel: Hotel-Management-System
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![Repo Size](https://img.shields.io/github/repo-size/Hasindu1/Hotel-Management-System-Java-Swing) 
 ## Introduction
 Hotel “Kabalana” is the only hotel in Sri Lanka which inspired by most creative cultures of an ancient palace in Alexandria, Egypt. “Kabalana” hotel provides a magnificent view of the Indian Ocean and stunning sunset. “Kabalana” hotel’s location is known to many as the best surfing destination in down south. This hotel has around 45 room capacity with many categories and for desirable price ranges. The hotel has all the bar facilities, restaurant facilities and other luxurious facilities like outdoor swimming pools, halls, etc.    Currently, the hotel has an existing hotel management system to perform its usual functions but they don’t use it much because of its complexity and sometimes it doesn’t produce the outputs as they expected. So, they were asked from us to produce a system to do their work more accurately according to their specific requirements. 
 ## Technology stack
