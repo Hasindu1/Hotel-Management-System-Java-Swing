@@ -18,7 +18,7 @@ Hotel “Kabalana” is the only hotel in Sri Lanka which inspired by most creat
 
 
 ### Tools ,Databases and servers
-![NetBeans](https://img.shields.io/badge/Technology-NetBenas-blue) 
+![NetBeans](https://img.shields.io/badge/Tool-NetBenas-blue) 
 ![ApacheDerby](https://img.shields.io/badge/Database-ApacheDerby-blue) 
 ![GlassFishServer](https://img.shields.io/badge/Server-GlassFishServer-blue) 
 
