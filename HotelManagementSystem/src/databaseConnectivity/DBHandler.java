@@ -12,7 +12,7 @@ import java.sql.DriverManager;
 
 /**
  *
- * @author kavee
+ * @author Hasindu
  */
 public class DBHandler {
      static Connection connection = null;
