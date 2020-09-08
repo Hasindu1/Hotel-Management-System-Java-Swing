@@ -1,4 +1,4 @@
-Installation Process:
+Installation Process :
 
 Go to the HotelManagementSystem\dist and click on the setup icon and install the program according to the instructions listed in the installation process.
 
